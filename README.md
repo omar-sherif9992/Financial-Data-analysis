@@ -31,20 +31,11 @@ The aim of the project is to compare Amazon and Walmart Financial Performance ac
 ## 💡 Description
 This study conducts a comprehensive financial performance analysis of Amazon and Walmart, two top non-financial companies in their sectors, using various financial analysis techniques. The annual reports of both companies for the past 10 years are downloaded from their respective websites, and data is summarized on a sheet. Common Size Analysis, Common Year Analysis, Combined Analysis, and Ratio Analysis are conducted to evaluate the financial performance of both companies. The results are presented in tables and figures, and benchmarking is performed to compare the performance of Amazon and Walmart. The implications of the findings are discussed in the discussion section, and the study concludes with a summary of the key findings and Stock Predictions.
 
+### 📄 Annual Reports - Data sources where collected from : 
+1)  Amazon : https://ir.aboutamazon.com/annual-reports-proxies-and-shareholder-letters/default.aspx
+2) Walmart :https://stock.walmart.com/financials/annual-reports/default.aspx
 
-
-## ⚠️ Disclaimer  
-Users who will Use this Data should only use it for Practice and <strong>not for Commercial Purposes !</strong>
-
-
-	
-	
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-## 💻️ Languages & Concepts Used
+### 💻️ Languages & Concepts Used
 
 * Python
 * [Pandas Library](https://pandas.pydata.org/pandas-docs/stable/getting_started/index.html)
@@ -55,9 +46,21 @@ Users who will Use this Data should only use it for Practice and <strong>not for
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### ⚠️ Disclaimer  
+Users who will Use this Data should only use it for Practice and <strong>not for Commercial Purposes !</strong>
 
 
-## Author: <i>Omar Sherif Ali - OSA</i>
+	
+	
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+
+
+### Author: <i>Omar Sherif Ali - OSA</i>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <div align="center">
